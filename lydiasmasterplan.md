@@ -1,3 +1,8 @@
+% "Workers of the world unite; you have nothing to lose but your chains." -Karl Marx
+% Lydia Nguyen
+% INLS161 SSII
+
+
 # "Workers of the world unite; you have nothing to lose but your chains." -Karl Marx
 ...
 "we have nothing to lose but our visual chains"
