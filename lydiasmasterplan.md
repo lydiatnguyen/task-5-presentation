@@ -6,7 +6,7 @@
 </section>
 
 ## Welcome to my pessimistic, somewhat satirical presentation on neoliberalism and environmental destruction
-
+![capitalism](images/capitalism.jpg)
 ## You may be wondering, what exactly is neoliberalism?
 ![neoliberalism](images/neoliberal.png)
 
